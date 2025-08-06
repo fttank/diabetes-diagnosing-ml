@@ -21,3 +21,5 @@ Used logistic regression to predict whether a patient has diabetes using a medic
 - Handling imbalanced medical data  
 - Evaluating binary classifiers  
 - Applying health insights in ML models
+
+> 🛠️ Educational project completed during Codecademy’s Data Science Pathway.
